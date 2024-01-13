@@ -14,7 +14,7 @@
 
 ## command
 ### 音程データいりの音ブロックを出すコマンドです
-### (COMMAND)[https://github.com/memerily/ResourcePacks/blob/main/NoteDisplay/command.txt]
+### [COMMAND](https://github.com/memerily/ResourcePacks/blob/main/NoteDisplay/command.txt)
 
 
 ## Image
