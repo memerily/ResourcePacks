@@ -6,9 +6,8 @@
 - リピーターの遅延を表示
 
 ## Image
-<img width="320px" src="https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.10.png">
+<img width="512px" src="https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.10.png">
+<img width="512px" src="https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.35.png">
+<img width="512px" src="https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.06.png">
 
-![IMAGE](https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.35.png)
-
-![IMAGE](https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.06.png)
 
