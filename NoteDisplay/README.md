@@ -7,7 +7,7 @@
 
 ## Image
 
-[IMAGE](https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.10.png)
-[IMAGE](https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.35.png)
-[IMAGE](https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.06.png)
+![IMAGE](https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.10.png)
+![IMAGE](https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.35.png)
+![IMAGE](https://raw.githubusercontent.com/memerily/ResourcePacks/main/NoteDisplay/README.Image/2024-01-14_00.29.06.png)
 
