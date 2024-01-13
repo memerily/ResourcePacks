@@ -1,5 +1,10 @@
 # NoteDisplay - 0.9.0 -
 
+## ダウンロード
+<a href="https://github.com/memerily/ResourcePacks/blob/main/NoteDisplay/release/NoteDisplay-0.9.0/NoteDisplay-0.9.0.zip"download>
+	<button style="padding: 5px">ダウンロード</button>
+</a>
+
 ## 機能
 - 音ブロックの音程を表示
 - 音ブロックの音のブロックを表示
